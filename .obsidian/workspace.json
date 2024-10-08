@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "357d76739273de0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "26fd1f28e35a74a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12ac6d5461b2ea3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/Farming/Algae-Based Energy Production.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "24bcc19d0ff3c28e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "625667c8bbae69cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Music/Songs and Albums/REBiRTH/Rebirth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48b6bf06df48a421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Public/Psychology/Emotions/How Emotions Control Us.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ec118ec2700fd33",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2abf610c88ab7ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bf7803b248f441d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8d35405ab72a578",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fcd3edf21733ccb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc9693b2677741be",
+    "type": "split",
+    "children": [
+      {
+        "id": "05c1c6a79f3999c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdc7b745465076b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Private/Music/Songs and Albums/REBiRTH/Rebirth.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3752c4b9efe4bf4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Private/Music/Songs and Albums/REBiRTH/Rebirth.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bbd8e52e82ae5e65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23452fd1a164c3e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Private/Music/Songs and Albums/REBiRTH/Rebirth.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "625667c8bbae69cb",
+  "lastOpenFiles": [
+    "Public/Farming/Algae-Based Energy Production.md",
+    "Private/Music/Songs and Albums/REBiRTH/Rebirth.md",
+    "Public/Psychology/Emotions/How Emotions Control Us.md",
+    "Public",
+    "Private",
+    "Private/Random.md",
+    "Private/Music/Songs and Albums/REBiRTH",
+    "Public/Fantasy/Worlds",
+    "Private/Music/Songs and Albums",
+    "Private/Music",
+    "Public/Notes to Self",
+    "Public/Farming/Biofuel Production from Algae.md",
+    "Public/Science/Neuroscience",
+    "Public/Science/Physics",
+    "Public/Science",
+    "Public/Farming/Algae cultivation.md",
+    "Public/Farming/Sustainable Ecosystem of Farming Food and Algae.md",
+    "Welcome.md"
+  ]
+}
