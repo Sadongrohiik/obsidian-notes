@@ -251,7 +251,30 @@ if I close my eyes ?
 Will I be free
 if I bind my hands ?
 
-### Dance of the crescent blades
+### Ave Domina Nox
+
+I gaze through the eyes
+of the endless Abyss
+I see the colors
+Bleed through eternity
+
+Ave, Domina Nox(2x)
+
+Ah, Open your eyes
+open your mouth
+for deceivers are coming
+to besiege
+
+Salvation in darkness
+Believe
+
+Ave, Domina Nox
+Ave, Domina Nox
+-
+Ave, Domina Nox
+Ave, Domina Nox
+
+
 ## R E B i R T H
 
 - Icarus
@@ -263,6 +286,8 @@ if I bind my hands ?
 - The endless ocean 
     
 - Nightbringer
+
+- The Dark Side (Muse Cover)
     
 - Luna Nova
   
@@ -280,3 +305,5 @@ if I bind my hands ?
 - Blood Moon
     
 - Ave Domina Nox
+
+## The Sixth Sun
