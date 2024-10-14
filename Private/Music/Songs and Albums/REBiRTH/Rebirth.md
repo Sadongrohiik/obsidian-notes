@@ -262,8 +262,8 @@ Ave, Domina Nox(2x)
 
 Ah, Open your eyes
 open your mouth
-for deceivers are coming
-to besiege
+deceivers are coming
+
 
 Salvation in darkness
 Believe
@@ -294,8 +294,6 @@ Ave, Domina Nox
 
 ## BLOOD MOON
 
-- Argent Radiance
-    
 - Hávamál
     
 - Dance of the crescent blades
