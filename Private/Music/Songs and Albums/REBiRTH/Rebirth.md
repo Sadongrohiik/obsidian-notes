@@ -266,7 +266,9 @@ deceivers are coming
 
 
 Salvation in darkness
-Believe
+Salvation in darkness
+Salvation in darkness
+Salvation
 
 Ave, Domina Nox
 Ave, Domina Nox

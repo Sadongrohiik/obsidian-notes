@@ -6,6 +6,7 @@
       {
         "id": "26fd1f28e35a74a3",
         "type": "tabs",
+        "dimension": 71.34670487106017,
         "children": [
           {
             "id": "12ac6d5461b2ea3e",
@@ -13,131 +14,103 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Random.md",
+                "file": "Private/Music/Songs and Albums/Sleeptalking/Sleeptalking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e66d99fbdded0bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Music/Songs and Albums/Deuspora/Disciples of the Machine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "164789de3c12c593",
-        "type": "split",
+        "id": "ee84969f986ed6e5",
+        "type": "tabs",
+        "dimension": 28.653295128939828,
         "children": [
           {
-            "id": "35de46eb1dc0bf85",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "20bc4e76bc727373",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Public/Prefice.md",
-                    "mode": "source",
-                    "source": false
-                  }
+            "id": "6e75699d0006e7e1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\Loremonger\\Documents\\TempleOfMoon\\TempleOfMoon",
+                  "focus": false,
+                  "profile": {
+                    "name": "",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "developerConsole"
+                  },
+                  "serial": null
                 }
               },
-              {
-                "id": "40d7aaa9f9f7ca0e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Private/Music/Songs and Albums/Sleeptalking/He is (Ghost Cover).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
+              "pinned": true
+            }
           },
           {
-            "id": "ee84969f986ed6e5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6e75699d0006e7e1",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Users\\Loremonger\\Documents\\TempleOfMoon\\TempleOfMoon",
-                      "focus": false,
-                      "profile": {
-                        "name": "",
-                        "restoreHistory": true,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "developerConsole"
-                      },
-                      "serial": {
-                        "columns": 83,
-                        "data": "\r\n\u001b[37mgit add .\r\n\u001b[31m[SyntaxError: Unexpected token (1:4)]\r\nPython was not found but can be installed from the Microsoft Store: https://go.microsoft.com/fwlink?linkID=2082640\u001b[1B\u001b[31D\u001b[0m",
-                        "rows": 23
-                      }
-                    }
+            "id": "9d1c8998e65b20e1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "C:\\Users\\Loremonger\\Documents\\TempleOfMoon\\TempleOfMoon",
+                  "focus": false,
+                  "profile": {
+                    "args": [],
+                    "executable": "C:\\Windows\\System32\\cmd.exe",
+                    "name": "",
+                    "platforms": {
+                      "win32": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": true,
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
                   },
-                  "pinned": true
+                  "serial": {
+                    "columns": 46,
+                    "data": "Microsoft Windows [Version 10.0.19045.2486]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\Loremong\u001b[1D",
+                    "rows": 54
+                  }
                 }
               },
-              {
-                "id": "9d1c8998e65b20e1",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Users\\Loremonger\\Documents\\TempleOfMoon\\TempleOfMoon",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "C:\\Windows\\System32\\cmd.exe",
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": true,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": {
-                        "columns": 83,
-                        "data": "Microsoft Windows [Version 10.0.19045.2486]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\Loremonger\\Documents\\TempleOfMoon\\TempleOfMoon>git add .",
-                        "rows": 23
-                      }
-                    }
-                  },
-                  "pinned": true
-                }
-              }
-            ],
-            "currentTab": 1
+              "pinned": true
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,15 +240,21 @@
   },
   "active": "9d1c8998e65b20e1",
   "lastOpenFiles": [
-    "Private/Music/Songs and Albums/Sleeptalking/He is (Ghost Cover).md",
-    "Private/Music/Songs and Albums/Sleeptalking/Burn It All Down  (PVRIS Cover) (Music video).md",
-    "Private/Random.md",
-    "Private/Music/Songs and Albums/Sleeptalking/Unintended (Muse Cover).md",
-    "Private/Music/Songs and Albums/Sleeptalking/The Morning News.md",
-    "Private/Music/Songs and Albums/Sleeptalking/Midnight Prayer.md",
+    "Private/Music/Songs and Albums/Deuspora/Disciples of the Machine.md",
+    "Private/Music/Songs and Albums/Deuspora/Bosonic Dreams.md",
+    "Private/Music/Songs and Albums/Deuspora/Invictus Infinitum.md",
+    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play chess",
+    "Private/Music/Songs and Albums/Deuspora/Gates of logic.md",
     "Private/Music/Songs and Albums/Sleeptalking/Sleeptalking.md",
-    "Private/Music/Songs and Albums/REBiRTH/Rebirth.md",
+    "Private/Music/Songs and Albums/Sleeptalking/Midnight Prayer.md",
+    "Private/Music/Songs and Albums/Sleeptalking/He is (Ghost Cover).md",
     "Private/Music/Songs and Albums/Sleeptalking/Resistance (Muse Cover).md",
+    "Private/Music/Songs and Albums/Sleeptalking/Sordid Affair (Röyksopp cover).md",
+    "Private/Music/Songs and Albums/Sleeptalking/The Morning News.md",
+    "Private/Music/Songs and Albums/Deuspora",
+    "Private/Music/Songs and Albums/Sleeptalking/Unintended (Muse Cover).md",
+    "Private/Music/Songs and Albums/REBiRTH/Rebirth.md",
+    "Private/Random.md",
     "Public/Practice/Paths you can take.md",
     "Public/Prefice.md",
     "Public/Psychology/Emotions/Loss.md",
@@ -293,11 +272,8 @@
     "Public/Art",
     "Public/Farming/Algae-Based Energy Production.md",
     "Public",
-    "Private",
-    "Private/Music/Songs and Albums/REBiRTH",
     "Public/Farming/Biofuel Production from Algae.md",
     "Public/Farming/Algae cultivation.md",
-    "Public/Farming/Sustainable Ecosystem of Farming Food and Algae.md",
-    "Welcome.md"
+    "Public/Farming/Sustainable Ecosystem of Farming Food and Algae.md"
   ]
 }

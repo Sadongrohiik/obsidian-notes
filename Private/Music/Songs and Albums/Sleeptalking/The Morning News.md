@@ -2,7 +2,7 @@ Every day, every morning
 Have I been sleepwalking?
 Can I find you again?
 I see faces on the walls
-The sent you left behind
+The scent you left behind
 Maybe I'll follow this time
 Maybe I drink again
 
