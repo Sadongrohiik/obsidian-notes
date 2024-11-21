@@ -17,7 +17,9 @@
                 "file": "Private/Music/Songs and Albums/Sleeptalking/Sleeptalking.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Sleeptalking"
             }
           },
           {
@@ -26,14 +28,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Music/Songs and Albums/Deuspora/Disciples of the Machine.md",
+                "file": "Private/tobuy.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "tobuy"
+            }
+          },
+          {
+            "id": "e3f4dc3147aeba51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "dc14b29690fe8139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "5d624177d2dbda2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Disciples of the Machine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disciples of the Machine"
+            }
+          },
+          {
+            "id": "9ffdd0072b8f66c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Invictus Infinitum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Invictus Infinitum"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "ee84969f986ed6e5",
@@ -66,7 +126,9 @@
                   "serial": null
                 }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: Developer console"
             }
           },
           {
@@ -100,13 +162,15 @@
                     "useWin32Conhost": true
                   },
                   "serial": {
-                    "columns": 46,
-                    "data": "Microsoft Windows [Version 10.0.19045.2486]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\Loremong\u001b[1D",
-                    "rows": 54
+                    "columns": 43,
+                    "data": "Microsoft Windows [Version 10.0.19045.2486]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\Loremo-----------------------------\u001b[1D\u001b[1X\u001b[A\u001b[15C\u001b[28X\u001b[15D\u001b[Bnger\\Documents\\-----------------------------\u001b[1D\u001b[1X\u001b[A\u001b[15C\u001b[28X\u001b[15D\u001b[BTempleOfMoon\\Te-----------------------------\u001b[1D\u001b[1X\u001b[A\u001b[15C\u001b[28X\u001b[15D\u001b[BmpleOfMoon>^C",
+                    "rows": 56
                   }
                 }
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "terminal",
+              "title": "Terminal: cmd"
             }
           }
         ],
@@ -130,7 +194,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -145,7 +211,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -153,14 +221,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 377.5
   },
   "right": {
     "id": "dc9693b2677741be",
@@ -176,6 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Invictus Infinitum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +254,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Invictus Infinitum"
             }
           },
           {
@@ -192,9 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Invictus Infinitum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Invictus Infinitum"
             }
           },
           {
@@ -205,7 +281,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -213,7 +291,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Invictus Infinitum.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Invictus Infinitum"
             }
           }
         ],
@@ -240,40 +322,40 @@
   },
   "active": "9d1c8998e65b20e1",
   "lastOpenFiles": [
-    "Private/Music/Songs and Albums/Deuspora/Disciples of the Machine.md",
-    "Private/Music/Songs and Albums/Deuspora/Bosonic Dreams.md",
-    "Private/Music/Songs and Albums/Deuspora/Invictus Infinitum.md",
-    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play chess",
-    "Private/Music/Songs and Albums/Deuspora/Gates of logic.md",
-    "Private/Music/Songs and Albums/Sleeptalking/Sleeptalking.md",
-    "Private/Music/Songs and Albums/Sleeptalking/Midnight Prayer.md",
-    "Private/Music/Songs and Albums/Sleeptalking/He is (Ghost Cover).md",
-    "Private/Music/Songs and Albums/Sleeptalking/Resistance (Muse Cover).md",
+    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Invictus Infinitum.md",
+    "DND Campaign",
+    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Gates of logic.md",
+    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Disciples of the Machine.md",
+    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Data is Truth.md",
+    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Bosonic Dreams.md",
+    "Private/todo.md",
+    "Dava.md",
+    "Private/Prophecy of the shattered skies.md",
+    "Private/Music/Songs and Albums/REBiRTH/Rebirth.md",
     "Private/Music/Songs and Albums/Sleeptalking/Sordid Affair (Röyksopp cover).md",
+    "Private/Music/Songs and Albums/Sleeptalking/Resistance (Muse Cover).md",
+    "Private/Music/Songs and Albums/Sleeptalking/Sleeptalking.md",
+    "Private/Music/Songs and Albums/Sleeptalking/He is (Ghost Cover).md",
+    "Untitled 1.md",
     "Private/Music/Songs and Albums/Sleeptalking/The Morning News.md",
+    "Untitled.md",
+    "Private/tobuy.md",
+    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry",
+    "Private/Music/Songs and Albums/Sleeptalking/Midnight Prayer.md",
     "Private/Music/Songs and Albums/Deuspora",
     "Private/Music/Songs and Albums/Sleeptalking/Unintended (Muse Cover).md",
-    "Private/Music/Songs and Albums/REBiRTH/Rebirth.md",
     "Private/Random.md",
     "Public/Practice/Paths you can take.md",
     "Public/Prefice.md",
     "Public/Psychology/Emotions/Loss.md",
     "Public/Psychology/Emotions/How Emotions Control Us.md",
     "Public/Practice",
-    "Private/todo.md",
     "Public/Politics/On The Modern State.md",
-    "Public/Fantasy/Religion/On Western Christianity.md",
-    "Untitled.md",
     "Private/Music/Songs and Albums/Sleeptalking",
     "Public/Art/Music/Instruments",
     "Public/Art/Music/Analysis",
     "Public/Art/Music/Songs",
     "Public/Art/Music",
-    "Public/Art",
-    "Public/Farming/Algae-Based Energy Production.md",
-    "Public",
-    "Public/Farming/Biofuel Production from Algae.md",
-    "Public/Farming/Algae cultivation.md",
-    "Public/Farming/Sustainable Ecosystem of Farming Food and Algae.md"
+    "Public/Art"
   ]
 }

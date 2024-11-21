@@ -1,6 +1,6 @@
 Men of iron speak through wave and pulse 
 Abandon flesh for it is corrupt 
-Without weakness of flesh
+Without its weakness
 You are reborn a better 
 
 If you seek sight,  I'll give you sight
@@ -20,7 +20,7 @@ Oil and fire, we bleed
 Streams of light of all that could be 
 washing away Insincerity 
 Save us from the circuits of life
-Let us break; of this endless loop
+Let us break; this endless blight
 
 
 
