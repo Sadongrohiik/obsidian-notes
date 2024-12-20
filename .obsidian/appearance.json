@@ -2,8 +2,9 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Tokyo Night",
-  "interfaceFontFamily": "PP Agrandir",
-  "textFontFamily": "PP Cirka,PP Supply Sans",
+  "interfaceFontFamily": "PP Charlevoix",
+  "textFontFamily": "PP Fraktion Sans",
   "monospaceFontFamily": "PP Supply Mono",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 18
 }
