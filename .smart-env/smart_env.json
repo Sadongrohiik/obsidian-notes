@@ -38,7 +38,7 @@
         "port": 0
       },
       "open_router": {
-        "model_key": "deepseek/deepseek-r1:free",
+        "model_key": "meta-llama/llama-3.3-70b-instruct:free",
         "models": {
           "mistralai/devstral-small:free": {
             "model_name": "mistralai/devstral-small:free",
@@ -17587,7 +17587,8 @@
               ]
             }
           }
-        }
+        },
+        "api_key": "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"
       }
     },
     "embed_model": {

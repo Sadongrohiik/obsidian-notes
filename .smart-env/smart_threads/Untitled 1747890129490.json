@@ -1,0 +1,142 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1747890129490.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1747890129490,
+  "responses": {
+    "gen-1747890261-w3RaAnkxq9pFjQZ3tR8X": {
+      "id": "gen-1747890261-w3RaAnkxq9pFjQZ3tR8X",
+      "object": "chat.completion",
+      "created": null,
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today? 😊"
+          }
+        }
+      ],
+      "usage": {},
+      "raw": {
+        "id": "gen-1747890261-w3RaAnkxq9pFjQZ3tR8X",
+        "object": "chat.completion",
+        "created": 0,
+        "model": "",
+        "choices": [
+          {
+            "message": {
+              "index": 0,
+              "role": "assistant",
+              "content": "Hello! How can I assist you today? 😊"
+            }
+          }
+        ],
+        "usage": {}
+      }
+    }
+  },
+  "messages": {
+    "user-1-1747890260768-1": 1,
+    "assistant-2-1747890263310-1": 2,
+    "user-3-1747890317635-1": 3
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "Untitled 1747890129490",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1747890129490",
+      "content": [
+        {
+          "type": "text",
+          "text": "Hello"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1747890260768-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1747890260768-1",
+      "key": "Untitled 1747890129490#user-1-1747890260768-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1747890129490",
+      "content": "Hello! How can I assist you today? 😊",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1747890263310-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "gen-1747890261-w3RaAnkxq9pFjQZ3tR8X",
+      "branch_i": "1747890263310-1",
+      "key": "Untitled 1747890129490#assistant-2-1747890263310-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1747890129490",
+      "content": [
+        {
+          "type": "text",
+          "text": "Based on the qwik docs in my notes, can you explain the Task hooks in qwik"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 3,
+      "id": "user-3-1747890317635-1",
+      "context": {
+        "has_self_ref": true
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1747890317635-1",
+      "key": "Untitled 1747890129490#user-3-1747890317635-1"
+    }
+  ]
+}
