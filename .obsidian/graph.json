@@ -11,14 +11,14 @@
       "query": "Docs",
       "color": {
         "a": 1,
-        "rgb": 9758410
+        "rgb": 15777622
       }
     },
     {
-      "query": "",
+      "query": "Models",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5405920
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3318665726440917,
+  "scale": 0.14032121408092846,
   "close": false
 }
