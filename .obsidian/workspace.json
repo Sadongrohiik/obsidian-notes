@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "063099361ccfbcd2",
+        "id": "05c6c31498204360",
         "type": "tabs",
         "children": [
           {
-            "id": "d632e96a84efb225",
+            "id": "cc0661711190510f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -168,8 +168,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -178,8 +178,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -206,13 +206,12 @@
       "omnisearch:Omnisearch": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d632e96a84efb225",
+  "active": "cc0661711190510f",
   "lastOpenFiles": [
+    "Public/Dev/Docs/tailwind_docs/docs-filter-contrast.md",
     "Public/Politics/Project Sindica/Project Sindica.md",
     "Personal/Personal Projects/Dev/Ai/Theory/Cognition/Human Cognition and Ai Similarties and Differences.md",
     "Public/Politics/Project Sindica",
@@ -241,7 +240,6 @@
     "Public/Dev/Docs/tailwind_docs/docs-vertical-align.md",
     "Public/Dev/Docs/tailwind_docs/docs-translate.md",
     "Public/Dev/Docs/tailwind_docs/docs-transition-timing-function.md",
-    "Public/Dev/Docs/tailwind_docs/docs-transition-property.md",
     "Public/Dev/Docs/tailwind_docs",
     "Public/Dev/Docs/qwik_docs",
     "Public/Dev/Docs/Qwik",
