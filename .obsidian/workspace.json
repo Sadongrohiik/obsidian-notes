@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Personal Projects/Dev/Ai/Theory/Cognition/How does human cognition work.md",
+                "file": "Personal/Personal Projects/Dev/Ai/Theory/references.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How does human cognition work"
+              "title": "references"
             }
           }
         ]
@@ -216,11 +216,14 @@
   },
   "active": "d632e96a84efb225",
   "lastOpenFiles": [
-    "Public/Dev/Docs/tailwind_docs/docs-accent-color.md",
+    "Public/Dev/Docs/tailwind_docs/1 Tailwind Docs.md",
+    "Public/Dev/Docs/tailwind_docs/docs-letter-spacing.md",
+    "Personal/Personal Projects/Dev/Ai/Theory/references.md",
+    "Personal/Personal Projects/Dev/Ai/Theory/Cognition/Human Cognition and Ai Similarties and Differences.md",
     "Personal/Personal Projects/Dev/Ai/Theory/Cognition/How does human cognition work.md",
+    "Public/Dev/Docs/tailwind_docs/docs-accent-color.md",
     "Personal/Personal Projects/Dev/Ai/Theory/Cognition",
     "Personal/Personal Projects/Dev/Ai/Theory",
-    "Public/Dev/Docs/tailwind_docs/1 Tailwind Docs.md",
     "Public/Prefice.md",
     "edge_functions.md",
     "Public/Dev/Docs/tailwind_docs/docs-text-align.md",
@@ -241,9 +244,6 @@
     "Public/Dev/Docs/tailwind_docs/docs-transition-property.md",
     "Public/Dev/Docs/tailwind_docs/docs-transition-duration.md",
     "Public/Dev/Docs/tailwind_docs/docs-transition-behavior.md",
-    "Public/Dev/Docs/tailwind_docs/docs-transform.md",
-    "Public/Dev/Docs/tailwind_docs/docs-transform-style.md",
-    "Public/Dev/Docs/tailwind_docs/docs-transform-origin.md",
     "Public/Dev/Docs/tailwind_docs",
     "Public/Dev/Docs/qwik_docs",
     "Public/Dev/Docs/Qwik",
