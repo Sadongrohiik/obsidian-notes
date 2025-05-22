@@ -1,0 +1,1 @@
+- Hybrid architectures (e.g., Gemini’s "Large Action Models") now enable AI to interact dynamically with digital environments, approximating human trial-and-error learning

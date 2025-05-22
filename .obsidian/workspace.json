@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Personal Projects/Dev/Ai/Theory/references.md",
+                "file": "Personal/Personal Projects/Dev/Ai/Theory/Cognition/Human Cognition and Ai Similarties and Differences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "references"
+              "title": "Human Cognition and Ai Similarties and Differences"
             }
           }
         ]
@@ -216,11 +216,12 @@
   },
   "active": "d632e96a84efb225",
   "lastOpenFiles": [
+    "Personal/Personal Projects/Dev/Ai/Theory/Cognition/How does human cognition work.md",
+    "Personal/Personal Projects/Dev/Ai/Gemini Large Action Models.md",
+    "Personal/Personal Projects/Dev/Ai/Theory/Cognition/Human Cognition and Ai Similarties and Differences.md",
+    "Personal/Personal Projects/Dev/Ai/Theory/references.md",
     "Public/Dev/Docs/tailwind_docs/1 Tailwind Docs.md",
     "Public/Dev/Docs/tailwind_docs/docs-letter-spacing.md",
-    "Personal/Personal Projects/Dev/Ai/Theory/references.md",
-    "Personal/Personal Projects/Dev/Ai/Theory/Cognition/Human Cognition and Ai Similarties and Differences.md",
-    "Personal/Personal Projects/Dev/Ai/Theory/Cognition/How does human cognition work.md",
     "Public/Dev/Docs/tailwind_docs/docs-accent-color.md",
     "Personal/Personal Projects/Dev/Ai/Theory/Cognition",
     "Personal/Personal Projects/Dev/Ai/Theory",
@@ -243,7 +244,6 @@
     "Public/Dev/Docs/tailwind_docs/docs-transition-timing-function.md",
     "Public/Dev/Docs/tailwind_docs/docs-transition-property.md",
     "Public/Dev/Docs/tailwind_docs/docs-transition-duration.md",
-    "Public/Dev/Docs/tailwind_docs/docs-transition-behavior.md",
     "Public/Dev/Docs/tailwind_docs",
     "Public/Dev/Docs/qwik_docs",
     "Public/Dev/Docs/Qwik",
