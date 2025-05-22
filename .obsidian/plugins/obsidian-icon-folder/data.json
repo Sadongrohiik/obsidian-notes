@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiMusic",
+      "LiSword",
+      "🏹",
+      "LiBrain",
+      "LiHammer"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,24 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Personal": "LiAlbum",
+  "Personal/Lists": "LiList",
+  "Personal/Lists/TODO": "LiListTodo",
+  "Personal/Lists/TOBUY": "LiListCheck",
+  "Personal/Personal Projects": "LiWorkflow",
+  "Personal/Personal Projects/Dev": "LiSquareCode",
+  "Personal/Personal Projects/Game": "LiGamepad",
+  "Personal/Personal Projects/Music": "LiMusic",
+  "Personal/Social": "LiNetwork",
+  "Personal/Writings": "LiFilePenLine",
+  "Personal/trade.md": "LiChartSpline",
+  "Public/Dev": "LiSquareCode",
+  "Public/Dev/Docs": "LiNewspaper",
+  "Public/Fantasy": "LiSwords",
+  "Public/Farming": "LiWheat",
+  "Public/Politics": "LiHammer",
+  "Public/Psychology": "LiBrain",
+  "Public/Shahname": "LiSword",
+  "Private/Music": "LiMusic"
 }
