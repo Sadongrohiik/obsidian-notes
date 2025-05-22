@@ -1,0 +1,42 @@
+- [ ] Get muscular druid body shape 
+	- [ ] Fats on fire method
+	- [ ] Stomach specially sides muscle
+- [ ] Get Muscular tom-femboy body shape
+- [ ] Hana on hair
+- [ ] Build out your workstation in the closet in the other room
+- [ ] House decor change
+- [ ] Create a housework routine
+- [ ] Create fashion styles for yourself
+	- [ ] Drawing
+	- [ ] Toga
+	- [ ] Sewing
+	- [ ] Jewelery making
+	- [ ] accessory making
+- [ ] Learn more makeup
+	- [ ] Eyeshadows
+	- [ ] Contouring
+	- [ ] Body hana
+	- [ ] Other techniques
+	- [ ] More modern techniques and tools
+- [ ] Create a skincare routine
+- [ ] Do music
+- [ ] Learn embedded sp32 programming
+- [ ] Start learning ai programming basics
+- [ ] Start learning electronics basics
+- [ ] Have a scheduled meditation time
+- [ ] Come up with more creative sex ideas and implement them
+	- [ ] Copouns or whaterver comes out of that
+	- [ ] learn more tantric practices
+	- [ ] Practice acting and seduction
+	- [ ] make body sexy
+	- [ ] tantric sex
+- [ ] Start learning math for theoretical work
+	- [ ] Could just learn math by programming as well
+- [ ] Learn sling
+
+
+## Rituals and Practices
+- [ ] Soltice ritual to renew the world
+	- [ ] Sat, Dec 21, 2024, 12:49 PM
+- [ ] Call Einstein and Feynman and Hawking
+- [ ] Call Khayyam
