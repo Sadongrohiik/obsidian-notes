@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Dev/Docs/tailwind_docs/docs-accent-color.md",
+                "file": "Personal/Personal Projects/Dev/Ai/Theory/Cognition/How does human cognition work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docs-accent-color"
+              "title": "How does human cognition work"
             }
           }
         ]
@@ -214,8 +214,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ef1d23f6adabf5d3",
+  "active": "d632e96a84efb225",
   "lastOpenFiles": [
+    "Public/Dev/Docs/tailwind_docs/docs-accent-color.md",
+    "Personal/Personal Projects/Dev/Ai/Theory/Cognition/How does human cognition work.md",
+    "Personal/Personal Projects/Dev/Ai/Theory/Cognition",
+    "Personal/Personal Projects/Dev/Ai/Theory",
     "Public/Dev/Docs/tailwind_docs/1 Tailwind Docs.md",
     "Public/Prefice.md",
     "edge_functions.md",
@@ -240,8 +244,6 @@
     "Public/Dev/Docs/tailwind_docs/docs-transform.md",
     "Public/Dev/Docs/tailwind_docs/docs-transform-style.md",
     "Public/Dev/Docs/tailwind_docs/docs-transform-origin.md",
-    "Public/Dev/Docs/tailwind_docs/docs-touch-action.md",
-    "Public/Dev/Docs/tailwind_docs/docs-top-right-bottom-left.md",
     "Public/Dev/Docs/tailwind_docs",
     "Public/Dev/Docs/qwik_docs",
     "Public/Dev/Docs/Qwik",
@@ -250,8 +252,6 @@
     "Dev",
     "Untitled.canvas",
     "Excalidraw",
-    "Public/Shahname",
-    "Personal/Writings/Stories/Cyfer",
-    "Personal/Writings/Stories"
+    "Public/Shahname"
   ]
 }
