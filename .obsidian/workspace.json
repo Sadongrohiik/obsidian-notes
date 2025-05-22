@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d9c43c1aac0c28e8",
+        "id": "063099361ccfbcd2",
         "type": "tabs",
         "children": [
           {
-            "id": "d2f529b2b9f7acc5",
+            "id": "d632e96a84efb225",
             "type": "leaf",
             "state": {
-              "type": "planner-release-notes",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Public/Dev/Docs/tailwind_docs/docs-accent-color.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Day Planner Release 0.28.0"
-            }
-          },
-          {
-            "id": "aeb2edf0ed94d188",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "docs-accent-color"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +165,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ef1d23f6adabf5d3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
+          },
+          {
+            "id": "08c9c9163d534247",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 558.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,47 +209,49 @@
       "omnisearch:Omnisearch": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "aeb2edf0ed94d188",
+  "active": "ef1d23f6adabf5d3",
   "lastOpenFiles": [
-    "Public/Dev/Docs/Qwik/Overview.md",
+    "Public/Dev/Docs/tailwind_docs/1 Tailwind Docs.md",
+    "Public/Prefice.md",
+    "edge_functions.md",
+    "Public/Dev/Docs/tailwind_docs/docs-text-align.md",
+    "Public/Dev/Docs/tailwind_docs/docs-scroll-snap-stop.md",
+    "Public/Dev/Docs/tailwind_docs/docs-transition-delay.md",
+    "Public/Dev/Docs/tailwind_docs/docs-user-select.md",
+    "Public/Dev/Docs/tailwind_docs/docs-visibility.md",
+    "Public/Dev/Docs/tailwind_docs/docs-backdrop-filter-hue-rotate.md",
+    "Public/Dev/Docs/qwik_docs/1 Qwik Docs.md",
+    "Public/Dev/Docs/tailwind_docs/docs-z-index.md",
+    "Public/Dev/Docs/tailwind_docs/docs-word-break.md",
+    "Public/Dev/Docs/tailwind_docs/docs-will-change.md",
+    "Public/Dev/Docs/tailwind_docs/docs-width.md",
+    "Public/Dev/Docs/tailwind_docs/docs-white-space.md",
+    "Public/Dev/Docs/tailwind_docs/docs-vertical-align.md",
+    "Public/Dev/Docs/tailwind_docs/docs-translate.md",
+    "Public/Dev/Docs/tailwind_docs/docs-transition-timing-function.md",
+    "Public/Dev/Docs/tailwind_docs/docs-transition-property.md",
+    "Public/Dev/Docs/tailwind_docs/docs-transition-duration.md",
+    "Public/Dev/Docs/tailwind_docs/docs-transition-behavior.md",
+    "Public/Dev/Docs/tailwind_docs/docs-transform.md",
+    "Public/Dev/Docs/tailwind_docs/docs-transform-style.md",
+    "Public/Dev/Docs/tailwind_docs/docs-transform-origin.md",
+    "Public/Dev/Docs/tailwind_docs/docs-touch-action.md",
+    "Public/Dev/Docs/tailwind_docs/docs-top-right-bottom-left.md",
+    "Public/Dev/Docs/tailwind_docs",
+    "Public/Dev/Docs/qwik_docs",
     "Public/Dev/Docs/Qwik",
     "Public/Dev/Docs",
     "Public/Dev",
     "Dev",
-    "Personal/Personal Projects/Dev/Ai/RAG.md",
-    "Personal/Personal Projects/Dev/Ai/MCP Servers.md",
-    "Personal/Personal Projects/Dev/Ai/Dify.md",
-    "Public/Practice/Paths you can take.md",
-    "Public/Politics/On The Modern State.md",
-    "Public/Psychology/Emotions/Loss.md",
-    "Public/Psychology/Emotions/How Emotions Control Us.md",
-    "Public/Prefice.md",
     "Untitled.canvas",
-    "Personal/trade.md",
-    "Untitled.md",
-    "Private/Random.md",
-    "Private/Prophecy of the shattered skies.md",
-    "Untitled 1.md",
-    "Excalidraw/Drawing 2025-05-22 06.56.17.excalidraw.md",
     "Excalidraw",
-    "Personal/Writings/Stories/Cyfer/Arden - Chapter 1 - Draft 1.md",
     "Public/Shahname",
-    "micro.md",
     "Personal/Writings/Stories/Cyfer",
-    "Personal/Writings/Stories",
-    "Personal/Writings/Poetry",
-    "Personal/Writings",
-    "Personal/Lists/Untitled.md",
-    "Private/Music/Songs and Albums/Sleeptalking/Sleeptalking.md",
-    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Invictus Infinitum.md",
-    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Gates of logic.md",
-    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Disciples of the Machine.md",
-    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Data is Truth.md",
-    "Private/Music/Songs and Albums/Deuspora/Gods don't play dice, they play geometry/Bosonic Dreams.md",
-    "Private/todo.md",
-    "Dava.md"
+    "Personal/Writings/Stories"
   ]
 }
