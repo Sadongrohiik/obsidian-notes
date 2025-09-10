@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Dev/Docs/tailwind_docs/docs-text-transform.md",
+                "file": "Trade Milestones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docs-text-transform"
+              "title": "Trade Milestones"
             }
           }
         ]
@@ -196,6 +196,8 @@
   },
   "active": "cc0661711190510f",
   "lastOpenFiles": [
+    "Public/Dev/Docs/tailwind_docs/docs-text-transform.md",
+    "Trade Milestones.md",
     "Personal/Personal Projects/Dev/Ai/Theory/Cognition/Human Cognition and Ai Similarties and Differences.md",
     "Personal/Personal Projects/Dev/Ai/Theory/Cognition/How does human cognition work.md",
     "Personal/Personal Projects/Dev/Ai/Theory/references.md",
@@ -223,8 +225,6 @@
     "Public/Dev/Docs/tailwind_docs/docs-word-break.md",
     "Public/Dev/Docs/tailwind_docs/docs-will-change.md",
     "Public/Dev/Docs/tailwind_docs/docs-width.md",
-    "Public/Dev/Docs/tailwind_docs/docs-white-space.md",
-    "Public/Dev/Docs/tailwind_docs/docs-vertical-align.md",
     "Public/Dev/Docs/tailwind_docs",
     "Public/Dev/Docs/qwik_docs",
     "Public/Dev/Docs/Qwik",
