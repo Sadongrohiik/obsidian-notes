@@ -1,7 +1,7 @@
 - [ ] First full leverage profit
 - [ ] 3x (100$)
 - [ ] 10x (1k$)
-- [ ] 30x (10k$)
+- [ ] 30x (10k$) -3k
 - [ ] 10x (100k$)
 
 
