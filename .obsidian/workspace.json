@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "home is a concept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,7 +195,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cc0661711190510f",
+  "active": "b8d35405ab72a578",
   "lastOpenFiles": [
     "Public/Dev/Docs/tailwind_docs/docs-text-transform.md",
     "Trade Milestones.md",
