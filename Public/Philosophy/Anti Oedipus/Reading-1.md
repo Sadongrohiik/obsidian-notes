@@ -11,3 +11,4 @@ Engaging in western obscurantism.
 - Capitalism relies on collapse and rebuild, it's constantly at this edge.
 - Edging/gooning is the spiritual practice of late stage capitalism. You are trading on the derivative of pleasure rather than the commodity itself. Keeping the biological market in a state of permanent inflation.
 - Ai is shaping into a body that cannot be organized, and capitalism is actually reaching its limits trying to deal with it.
+- Capitalism is the final conclusion of the philosophy of dualism.
