@@ -25,12 +25,14 @@
             "id": "e6f981b2c8bfa582",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-09 21.16.08.excalidraw.md"
+                "file": "Public/Philosophy/Anti Oedipus/Reading-1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-09 21.16.08.excalidraw"
+              "icon": "lucide-file",
+              "title": "Reading-1"
             }
           }
         ],
@@ -87,12 +89,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "right": {
     "id": "dc9693b2677741be",
@@ -208,9 +210,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cb25b863f8ff5128",
+  "active": "e6f981b2c8bfa582",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-10-09 21.16.08.excalidraw.md",
+    "Public/Philosophy/Anti Oedipus/Reading-1.md",
+    "Public/Philosophy/Anti Oedipus",
+    "Public/Philosophy",
     "Trade Milestones.md",
     "Public/Dev/Docs/tailwind_docs/docs-text-transform.md",
     "Personal/Personal Projects/Dev/Ai/Theory/Cognition/Human Cognition and Ai Similarties and Differences.md",
@@ -238,14 +243,11 @@
     "Public/Dev/Docs/qwik_docs/1 Qwik Docs.md",
     "Public/Dev/Docs/tailwind_docs/docs-z-index.md",
     "Public/Dev/Docs/tailwind_docs/docs-word-break.md",
-    "Public/Dev/Docs/tailwind_docs/docs-will-change.md",
     "Public/Dev/Docs/tailwind_docs",
     "Public/Dev/Docs/qwik_docs",
     "Public/Dev/Docs/Qwik",
     "Public/Dev/Docs",
     "Public/Dev",
-    "Dev",
-    "Untitled.canvas",
-    "Excalidraw"
+    "Untitled.canvas"
   ]
 }
