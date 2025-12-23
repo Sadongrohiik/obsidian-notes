@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Trade Milestones"
             }
+          },
+          {
+            "id": "e6f981b2c8bfa582",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-09 21.16.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-09 21.16.08.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +208,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b8d35405ab72a578",
+  "active": "cb25b863f8ff5128",
   "lastOpenFiles": [
-    "Public/Dev/Docs/tailwind_docs/docs-text-transform.md",
+    "Excalidraw/Drawing 2025-10-09 21.16.08.excalidraw.md",
     "Trade Milestones.md",
+    "Public/Dev/Docs/tailwind_docs/docs-text-transform.md",
     "Personal/Personal Projects/Dev/Ai/Theory/Cognition/Human Cognition and Ai Similarties and Differences.md",
     "Personal/Personal Projects/Dev/Ai/Theory/Cognition/How does human cognition work.md",
     "Personal/Personal Projects/Dev/Ai/Theory/references.md",
@@ -225,7 +239,6 @@
     "Public/Dev/Docs/tailwind_docs/docs-z-index.md",
     "Public/Dev/Docs/tailwind_docs/docs-word-break.md",
     "Public/Dev/Docs/tailwind_docs/docs-will-change.md",
-    "Public/Dev/Docs/tailwind_docs/docs-width.md",
     "Public/Dev/Docs/tailwind_docs",
     "Public/Dev/Docs/qwik_docs",
     "Public/Dev/Docs/Qwik",
