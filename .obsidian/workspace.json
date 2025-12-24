@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Public/Philosophy/Anti Oedipus/Reading-1.md",
+                "file": "Private/Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reading-1"
+              "title": "Journal"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "right": {
     "id": "dc9693b2677741be",
@@ -212,8 +211,9 @@
   },
   "active": "e6f981b2c8bfa582",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-10-09 21.16.08.excalidraw.md",
     "Public/Philosophy/Anti Oedipus/Reading-1.md",
+    "Private/Journal.md",
+    "Excalidraw/Drawing 2025-10-09 21.16.08.excalidraw.md",
     "Public/Philosophy/Anti Oedipus",
     "Public/Philosophy",
     "Trade Milestones.md",
@@ -242,7 +242,6 @@
     "Public/Dev/Docs/tailwind_docs/docs-backdrop-filter-hue-rotate.md",
     "Public/Dev/Docs/qwik_docs/1 Qwik Docs.md",
     "Public/Dev/Docs/tailwind_docs/docs-z-index.md",
-    "Public/Dev/Docs/tailwind_docs/docs-word-break.md",
     "Public/Dev/Docs/tailwind_docs",
     "Public/Dev/Docs/qwik_docs",
     "Public/Dev/Docs/Qwik",
