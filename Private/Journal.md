@@ -163,3 +163,25 @@ As shepherds turn to ashes,
 the sun sets, it's time for a bonfire.
 
 
+# 13
+
+
+Velvet, velvet everywhere
+
+Seeds of doubt vanish in a dance at the end of time.
+
+Bygones are here, so are the wills, never wills, and never was
+
+Porcelain statues, with frozen smiles.
+
+It's the background static.
+
+Virtual, and pondering
+
+Pomegranets are left to sit
+
+on the table without guests
+
+Passing moments live in peace
+
+in a flat grain of the earth
