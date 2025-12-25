@@ -17,7 +17,7 @@ paleantologists and the white horse having conversations about
 who's the next queen
 
 In the mud, dirt and blood, joyous and sublime
-Oh, the darkness, holy fires, poison and blindness
+Through the darkness, holy fires, poison and blindness
 There's never been a moment that I regret
 Weaponized , hypnotized, died and reborn,
 but haven't, not ever, failed to see the wonder of it all
