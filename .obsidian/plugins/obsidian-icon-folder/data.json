@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWrench",
       "LiMusic",
       "LiSword",
       "🏹",
-      "LiBrain",
-      "LiHammer"
+      "LiBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,5 +52,6 @@
   "Public/Politics": "LiHammer",
   "Public/Psychology": "LiBrain",
   "Public/Shahname": "LiSword",
-  "Private/Music": "LiMusic"
+  "Private/Music": "LiMusic",
+  "Public/Dev/Project Management": "LiWrench"
 }
