@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## Add To cart
 
+- [ ] Build The tinder UI
+- [ ] Connect to backend
 
 
 ## Doing
