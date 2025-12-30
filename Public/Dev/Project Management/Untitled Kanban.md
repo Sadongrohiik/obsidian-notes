@@ -6,16 +6,22 @@ kanban-plugin: board
 
 ## Add To cart
 
-- [ ] Automatic Show state
 
 
 ## Doing
 
-- [ ] Frontent telegram link parser
+- [ ] setup vps
+- [ ] setup ci/cd
+- [ ] setup coolify
+- [ ] setup database
+- [ ] setup caching and cdn
+- [ ] nginx?
 
 
 ## Done
 
+- [ ] Automatic Show state
+- [ ] Frontent telegram link parser
 
 
 
