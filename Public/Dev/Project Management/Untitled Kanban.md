@@ -4,6 +4,13 @@ kanban-plugin: board
 
 ---
 
+## Registration
+
+- [ ] Create Registration form
+- [ ] connect to api
+- [ ] registration process modification on api
+
+
 ## Add To cart
 
 - [ ] Build The tinder UI
@@ -29,6 +36,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,true]}
 ```
 %%
