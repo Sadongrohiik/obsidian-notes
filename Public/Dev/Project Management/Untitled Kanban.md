@@ -13,9 +13,8 @@ kanban-plugin: board
 - [ ] setup vps
 - [ ] setup ci/cd
 - [ ] setup coolify
-- [ ] setup database
 - [ ] setup caching and cdn
-- [ ] nginx?
+- [ ] service worker
 
 
 ## Done
