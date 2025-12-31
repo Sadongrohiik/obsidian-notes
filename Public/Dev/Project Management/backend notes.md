@@ -1,0 +1,4 @@
+- multi product posts, variations, add a key to each prouct that belongs in a variation group, otherwise independent products
+- do key value pairs for {tenant_id, product_id}
+- trigger miniapp after phone number
+- change added links to not include tenant id and only product id

@@ -39,21 +39,14 @@
             "id": "9fc77114db4ba9d7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Public/Dev/Project Management/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    true
-                  ]
-                }
+                "file": "Public/Dev/Project Management/backend notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "backend notes"
             }
           }
         ],
@@ -114,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "right": {
     "id": "dc9693b2677741be",
@@ -234,8 +226,9 @@
   },
   "active": "9fc77114db4ba9d7",
   "lastOpenFiles": [
-    "Wonderland.md",
     "Public/Dev/Project Management/Untitled Kanban.md",
+    "Public/Dev/Project Management/backend notes.md",
+    "Wonderland.md",
     "Public/Dev/Project Management",
     "Private/Journal.md",
     "Public/Philosophy/Anti Oedipus/Reading-1.md",
@@ -265,7 +258,6 @@
     "Public/Dev/Docs/tailwind_docs/docs-transition-delay.md",
     "Public/Dev/Docs/tailwind_docs/docs-user-select.md",
     "Public/Dev/Docs/tailwind_docs/docs-visibility.md",
-    "Public/Dev/Docs/tailwind_docs/docs-backdrop-filter-hue-rotate.md",
     "Public/Dev/Docs/tailwind_docs",
     "Public/Dev/Docs/qwik_docs",
     "Public/Dev/Docs/Qwik",
