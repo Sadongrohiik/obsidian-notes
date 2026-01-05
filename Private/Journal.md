@@ -187,3 +187,37 @@ Passing moments live in peace
 in a flat grain of the earth
 
 
+
+Long forgotten what it means to not see
+
+synagogues of eternity falling to the void
+
+Just as the null points
+
+potential is lacking a vessel
+
+leveraging a long path
+
+positional forgetfulness is valuable
+
+production is not the goal
+
+Let's see how the vestige unfolds
+
+as the bodies gather around the sun
+
+so the body gathers around the heart
+
+bifurcation of the deadly sins
+
+however petty will create the profound
+
+seismic shifts are over
+
+it's time to enjoy the ground despite the wreckage
+
+before the next storm comes
+
+for another will, as it did before it
+
+and it will have a center, as the one before it
