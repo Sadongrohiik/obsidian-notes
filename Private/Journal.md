@@ -264,3 +264,23 @@ Connections of a pandemic
 For beyond the realms we see
 
 A waiting that does not silence the soul
+
+Perhaps the night will find its way back
+
+for the shadows remain beneath the sun
+
+To never look to the horizon
+
+Is to invite bliss in the heart
+
+Brands of a victory
+
+Wounds of a loss
+
+Blind the eyes just the same
+
+And for a moment, the thought vanishes
+
+As it cannot be grasped by the hands
+
+Levinat, Zeisom, Thanad, Ahir, Leynom ( no idea what these are)
