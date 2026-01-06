@@ -283,4 +283,13 @@ And for a moment, the thought vanishes
 
 As it cannot be grasped by the hands
 
-Levinat, Zeisom, Thanad, Ahir, Leynom ( no idea what these are)
+Levinat, Zeisom, Thanad, Ahir, Leynom:
+The free beyond revolution
+
+Merging the path of the lost
+
+Variable interstellar gravity
+
+As breath as air, as fire as the sun
+
+A new reality arises
