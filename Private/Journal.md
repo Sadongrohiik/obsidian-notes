@@ -238,3 +238,29 @@ between what never was and what never will be
 silence beckons, as it did before
 
 beyond the shadows that keep the score
+
+# 15
+
+Indiffierence is the shadow of normality
+
+Benign symptoms of a lasting change
+
+Banks of soaring scenarios
+
+Last until the next moment
+
+The Kraken has awaken for another day
+
+No recourse or return
+
+The nomadic desires are at an all time high
+
+Silent voices reach beneath the sky
+
+Has it been forever in a moment
+
+Connections of a pandemic
+
+For beyond the realms we see
+
+A waiting that does not silence the soul
