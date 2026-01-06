@@ -45,13 +45,5 @@
   "Personal/Social": "LiNetwork",
   "Personal/Writings": "LiFilePenLine",
   "Personal/trade.md": "LiChartSpline",
-  "Public/Dev": "LiSquareCode",
-  "Public/Dev/Docs": "LiNewspaper",
-  "Public/Fantasy": "LiSwords",
-  "Public/Farming": "LiWheat",
-  "Public/Politics": "LiHammer",
-  "Public/Psychology": "LiBrain",
-  "Public/Shahname": "LiSword",
-  "Private/Music": "LiMusic",
-  "Public/Dev/Project Management": "LiWrench"
+  "Private/Music": "LiMusic"
 }
