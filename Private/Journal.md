@@ -187,6 +187,7 @@ Passing moments live in peace
 in a flat grain of the earth
 
 
+# 14
 
 Long forgotten what it means to not see
 
@@ -221,3 +222,19 @@ before the next storm comes
 for another will, as it did before it
 
 and it will have a center, as the one before it
+
+The silent hands write as before
+
+The new moon brighter than before
+
+instructions are for the unenlightened
+
+paths to harmony do not require structures
+
+blinking yet again, to find the space
+
+between what never was and what never will be
+
+silence beckons, as it did before
+
+beyond the shadows that keep the score
